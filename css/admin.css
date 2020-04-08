@@ -1,0 +1,20 @@
+body{font-family: 'Open Sans', sans-serif;}
+.header{margin-top:20px;padding:20px 0;height:100%;background: black;}
+
+/*PARALLAX*/     
+.parallax1{background: url(../images/parallax/parallax1.jpg) fixed;background-size: cover;background-position: 100% center;}
+.parallax2{background: url(../images/parallax2.jpg) fixed;background-size: cover;background-position: 100% center;}
+.parallax3{background: url(../images/parallax/parallax3.jpg) fixed;background-size: cover;background-position: 100% center;}  
+.parallax4{background: url(../images/parallax/parallax4.jpg) fixed;background-size: cover;background-position: 100% center;}
+ 
+/*Texto*/
+.text-yellow{color: yellow;} 
+.text-orange{color: #FF6600;}  
+
+/*BOX*/ 
+.jumbotronBox {padding-top: 30px;padding-bottom: 30px;margin-bottom: 30px;color: inherit;background-color: #eee;border: 1px solid #D1D1D1; border-radius: 3px;}
+
+/*FOOTER GERAL*/  
+.footer{padding:15px 0;height:100%;background: black;}
+.footer a{font-size: 14px; color: #fff; font-variant: small-caps;}
+.footer a:hover{text-decoration: underline;}
